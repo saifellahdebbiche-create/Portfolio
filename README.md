@@ -1,24 +1,59 @@
-# Portfolio
-Full-stack personal portfolio website built with Angular and Spring Boot, featuring a Markdown-based blog system to showcase skills, experience, and published articles.
+# Personal Portfolio Website
 
-This project is a full-stack personal portfolio website designed to showcase my skills, experience, and projects, along with a technical blog section.
+A full-stack personal portfolio website designed to showcase my **skills, experience, and projects**, along with a **technical blog section**.
 
-The blog system is built to dynamically load articles written in Markdown (.md) files, allowing easy content creation and maintenance without modifying the frontend code. Each blog post is rendered on the website with proper formatting.
+The blog system dynamically loads articles written in **Markdown (`.md`) files**, allowing easy content creation and maintenance without modifying the frontend code. Each blog post is rendered on the website with proper formatting.
 
-🔹 Key Features
+---
 
-Personal profile section (skills, experience, and background)
+## ✨ Features
 
-Blog section with Markdown-based articles
+- Personal profile section (skills, experience, and background)
+- Blog section with Markdown-based articles
+- Dynamic loading and rendering of blog posts
+- Clean and responsive user interface
+- Clear separation between frontend and backend
 
-Dynamic blog loading and rendering
+---
 
-Clean and responsive UI
+## 🛠️ Tech Stack
 
-Separation between frontend and backend
+### Frontend
+- Angular
 
-🔹 Tech Stack
+### Backend
+- Spring Boot
 
-Frontend: Angular
+### Content
+- Markdown (`.md`) files
 
-Backend: Spring Boot
+---
+
+## 🧩 Architecture Overview
+
+- The **Angular frontend** handles UI rendering and user interactions
+- The **Spring Boot backend** manages blog retrieval and API endpoints
+- Blog articles are stored as **Markdown files** and converted to HTML for display on the website
+
+This architecture ensures scalability, maintainability, and clean separation of concerns.
+
+---
+
+## 🚀 Purpose
+
+This project demonstrates my ability to:
+- Build full-stack web applications
+- Integrate Angular with Spring Boot
+- Design content-driven systems
+- Structure scalable and maintainable projects
+
+---
+
+## 📌 Future Improvements
+- Authentication for blog management
+---
+
+## 👤 Author
+
+**Saif Debbiche**  
+Software Engineer | Full Stack & DevOps Enthusiast
